@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lesson4</string>
+    <string name="havefun">Have Fun</string>
+    <string name="dosomething">Do SomeThing</string>
+    <string name="clickhere">Click Here</string>
+    <string name="surprise">Surprise</string>
+</resources>
